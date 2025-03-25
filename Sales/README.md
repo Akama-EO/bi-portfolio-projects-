@@ -1,4 +1,4 @@
-# 📊📈📉 Home Luxury Kitchen Sales Dashboard
+# 📊📈📉 Home Luxury Kitchen - Sales Dashboard
 <p align="center">
 <img src="dashboard.png" alt="Image" width="600" height="450">
 
