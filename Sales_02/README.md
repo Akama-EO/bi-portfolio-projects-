@@ -1,7 +1,7 @@
 # 📊📈📉 Adventure Works - Sales Dashboard
 <p align="center">
-<img src="dashboard-01.png" alt="Image" width="600" height="450">
-<img src="dashboard-02.png" alt="Image" width="600" height="450">
+<img src="dashboard-01.png" alt="Image" width="400" height="250">
+<img src="dashboard-02.png" alt="Image" width="400" height="250">
 
 
 ## Table of Contents
