@@ -5,7 +5,7 @@
 
 ## Table of Contents
   - [Introduction](#introduction)
-  - [Problem Objective](#problem-objective)
+  - [Project Objective](#project-objective)
   - [Tools & Techniques](#tools-and-techniques)
   - [Road Map](#road-map)
   - [Dashboard Components](#dashboard-components)
@@ -20,7 +20,7 @@ The objective of the project is to create a fully functional interactive sales d
 - **Primary Goal:** Develop a dashboard that summarizes from a dataet without the use of power tools.
 - **Business Focus:** Provide insights and actionable recommendations to drive business strategy.
 
-## Tools & Techniques
+## Tools and Techniques
 - **Advance Excel Functions and Formulas:** Utilize various built-in Excel functions (e.g., `SUMIF`, `VLOOKUP`, `INDEX/MATCH`, etc.) to analyze the dataset.
 - **Data Structuring:**
   - Use a whole range or convert your data into a table for dynamic analysis.
