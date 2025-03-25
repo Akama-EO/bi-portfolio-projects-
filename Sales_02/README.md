@@ -18,7 +18,7 @@ This project highlights the power and flexibility of Advance Excel for multi-pag
 ## Project Objective
 The objective of this project is to create a fully functional interactive multi-page dashboard that leverages on the power and flexibility of Advance Excel using customized charts, VBA and Macros.
 
-- **Primary Goal:** Develop a dashboard that summarizes from a dataet with the use of power tools.
+- **Primary Goal:** Develop an interactive multi-page dashboard that summarizes data from a dataet with the use of power tools, VBA and Macros.
 - **Business Focus:** Provide insights and actionable recommendations to drive business strategy.
 
 ## Tools and Techniques
