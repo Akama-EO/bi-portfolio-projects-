@@ -1,19 +1,29 @@
+# 📊📈📉 Advanced Excel Portfolio Project: Home Luxury Kitchen Sales Dashboard
+<p align="center">
+<img src="dashborad.png" alt="Image" width="450" height="450">
+
+
+## Table of Contents
+  - [Introduction](#introduction)
+  - [Problem Statement](#problem-statement)
+  - [Dataset Used](#datasets-used)
+  - [Case Study Solutions](#case-study-solutions)
+
 # Advanced Excel Portfolio Project: Home Luxury Kitchen Sales Dashboard
 
-## Project Overview
+## Introduction
 
-As a new data analyst at **Home Luxury Kitchen**, a company that sells kitchen equipment, you are tasked with creating an interactive sales dashboard that summarizes sales performance from the year 2019 to 2022.
+As a new data analyst at **Home Luxury Kitchen**, a company that sells kitchen equipment, you have been given a dataset containing data from 2019 to 2022, the sales manager wants you to create a dashboard that summaries the sales performance during the period.
 
-&#x20;This project showcases my expertise in advanced Excel techniques without the use of Pivot Tables.
+You are requested not to use Pivot Tools like Power Table to create the dashboard.
 
 ## Project Objective
+The objective of the project is to create a fully functional interactive sales dashboard in Advance Excel using only functions and formulas without the use of power tools like Power Query and Power Pivot.
 
-- **Primary Goal:** Develop a dashboard that summarizes the sales data from 2019 - 2022.
-- **Data Scope:** The dataset covers the period from 2019 to 2022.
+- **Primary Goal:** Develop a dashboard that summarizes from a dataet without the use of power tools.
 - **Business Focus:** Provide insights and actionable recommendations to drive business strategy.
 
 ## Tools & Techniques
-
 - **Advance Excel Functions and Formulas:** Utilize various built-in Excel functions (e.g., `SUMIF`, `VLOOKUP`, `INDEX/MATCH`, etc.) to analyze the dataset.
 - **Data Structuring:**
   - Use a whole range or convert your data into a table for dynamic analysis.
@@ -22,7 +32,6 @@ As a new data analyst at **Home Luxury Kitchen**, a company that sells kitchen e
 - **No Pivot Tables:** Focus on using formulas and manual chart setups instead of Pivot Tables.
 
 ## Road Map
-
 1. **Use Excel Functions and Formulas:**
 
    - Leverage a variety of Excel functions to calculate totals, averages, and other key metrics.
@@ -38,12 +47,10 @@ As a new data analyst at **Home Luxury Kitchen**, a company that sells kitchen e
    - Think about the business impact and how to best communicate the data.
 
 4. **Make it Simple:**
-
    - Ensure the dashboard is clear and easy to understand. Avoid clutter and use visual elements that make the data immediately comprehensible.
    - Focus on key performance indicators (KPIs) that truly matter to the business.
 
 5. **Make Recommendations for the Business:**
-
    - Based on your analysis, provide actionable insights and recommendations.
    - Consider aspects such as product performance, market trends, and potential areas for cost savings or revenue growth.
 
