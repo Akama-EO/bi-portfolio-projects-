@@ -1,6 +1,6 @@
 # 📊📈📉 Home Luxury Kitchen Sales Dashboard
 <p align="center">
-<img src="dashboard.png" alt="Image" width="450" height="450">
+<img src="dashboard.png" alt="Image" width="650" height="450">
 
 
 ## Table of Contents
