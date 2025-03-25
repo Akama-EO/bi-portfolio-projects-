@@ -7,7 +7,7 @@
   - [Introduction](#introduction)
   - [Problem Objective](#problem-objective)
   - [Dataset Used](#datasets-used)
-  - [Tools & Techniques](#tools-and-technques)
+  - [Tools & Techniques](#tools-&-technques)
   - [Road Map](#road-map)
   - [Dashboard Components](#dashboard-components)
 
@@ -61,4 +61,4 @@ The objective of the project is to create a fully functional interactive sales d
 - **Recommendations:** Clearly highlight strategic recommendations based on the data analysis.
 
 
-Click [here](https://github.com/Akama-EO/sql-portfolio-projects/blob/main/Football%20Data%20Analysis/Solution%20(Part%20A).md) to view the complete solution for the project.
+Click [here](https://github.com/Akama-EO/bi-portfolio-projects-/blob/main/Sales/Dataset.xlsx) to view/download the complete solution for the project.
