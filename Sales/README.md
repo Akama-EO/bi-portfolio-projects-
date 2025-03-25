@@ -1,4 +1,4 @@
-# 📊📈📉 Advanced Excel Portfolio Project: Home Luxury Kitchen Sales Dashboard
+# 📊📈📉 Home Luxury Kitchen Sales Dashboard
 <p align="center">
 <img src="dashborad.png" alt="Image" width="450" height="450">
 
@@ -8,8 +8,6 @@
   - [Problem Statement](#problem-statement)
   - [Dataset Used](#datasets-used)
   - [Case Study Solutions](#case-study-solutions)
-
-# Advanced Excel Portfolio Project: Home Luxury Kitchen Sales Dashboard
 
 ## Introduction
 
