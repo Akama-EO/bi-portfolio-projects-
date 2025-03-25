@@ -7,7 +7,7 @@
   - [Introduction](#introduction)
   - [Problem Objective](#problem-objective)
   - [Dataset Used](#datasets-used)
-  - [Tools & Techniques](#tools-&-technques)
+  - [Tools & Techniques](#tools-&-techniques)
   - [Road Map](#road-map)
   - [Dashboard Components](#dashboard-components)
 
@@ -39,17 +39,9 @@ The objective of the project is to create a fully functional interactive sales d
 
    - Convert raw data into a structured table to enable dynamic range references and facilitate easier data management.
 
-3. **Pretend to be the Owner of the Business:**
-
-   - Adopt a strategic perspective. Consider what metrics and insights are most valuable for business decisions (e.g., best-selling products, seasonal trends, etc.).
-   - Think about the business impact and how to best communicate the data.
-
-4. **Make it Simple:**
+3. **Make it Simple:**
    - Ensure the dashboard is clear and easy to understand. Avoid clutter and use visual elements that make the data immediately comprehensible.
    - Focus on key performance indicators (KPIs) that truly matter to the business.
-
-5. **Make Recommendations for the Business:**
-   - Based on your analysis, provide actionable insights and recommendations.
    - Consider aspects such as product performance, market trends, and potential areas for cost savings or revenue growth.
 
 ## Dashboard Components
