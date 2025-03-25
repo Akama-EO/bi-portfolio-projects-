@@ -5,15 +5,15 @@
 
 ## Table of Contents
   - [Introduction](#introduction)
-  - [Problem Statement](#problem-statement)
+  - [Problem Objective](#problem-objective)
   - [Dataset Used](#datasets-used)
-  - [Case Study Solutions](#case-study-solutions)
+  - [Tools & Techniques](#tools-and-technques)
+  - [Road Map](#road-map)
+  - [Dashboard Components](#dashboard-components)
 
 ## Introduction
 
-As a new data analyst at **Home Luxury Kitchen**, a company that sells kitchen equipment, you have been given a dataset containing data from 2019 to 2022, the sales manager wants you to create a dashboard that summaries the sales performance during the period.
-
-You are requested not to use Pivot Tools like Power Table to create the dashboard.
+As a new data analyst at **Home Luxury Kitchen**, a company that sells kitchen equipment, you have been given a dataset containing data from 2019 to 2022. The sales manager wants you to create a dashboard that summaries the sales performance during the period. You are requested not to use Pivot Tools like Power Pivot to create the dashboard.
 
 ## Project Objective
 The objective of the project is to create a fully functional interactive sales dashboard in Advance Excel using only functions and formulas without the use of power tools like Power Query and Power Pivot.
@@ -60,6 +60,5 @@ The objective of the project is to create a fully functional interactive sales d
 - **Detailed Breakdown:** Provide additional insights like top-selling products, regional performance, and sales by sales channel.
 - **Recommendations:** Clearly highlight strategic recommendations based on the data analysis.
 
-## Conclusion
 
 This project not only demonstrates my technical skills in Advance Excel but also my ability to provide business insights through data analysis. The final dashboard should serve as a valuable tool for Home Luxury Kitchen’s management, aiding in strategic decision-making and operational improvements.
