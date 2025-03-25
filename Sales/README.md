@@ -6,8 +6,7 @@
 ## Table of Contents
   - [Introduction](#introduction)
   - [Problem Objective](#problem-objective)
-  - [Dataset Used](#datasets-used)
-  - [Tools & Techniques](#tools-&-techniques)
+  - [Tools & Techniques](#tools-and-techniques)
   - [Road Map](#road-map)
   - [Dashboard Components](#dashboard-components)
 
