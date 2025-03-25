@@ -1,7 +1,7 @@
 # 📊📈📉 Adventure Works - Sales Dashboard
 <p align="center">
-<img src="dashboard-01.png" alt="Image" width="400" height="250">
-<img src="dashboard-02.png" alt="Image" width="400" height="250">
+<img src="dashboard-01.png" alt="Image" width="450" height="225">
+<img src="dashboard-02.png" alt="Image" width="450" height="225">
 
 
 ## Table of Contents
@@ -13,12 +13,12 @@
 
 ## Introduction
 
-As a new data analyst at **Home Luxury Kitchen**, a company that sells kitchen equipment, you have been given a dataset containing data from 2019 to 2022. The sales manager wants you to create a dashboard that summaries the sales performance during the period. You are requested not to use Pivot Tools like Power Pivot to create the dashboard.
+This project highlights the power and flexibility of Advance Excel for multi-page dashboard design using functions and formulas with power tools like Power Query and Power Pivot. It also showcases the programming of an animated dashboard filter with VBA and Macros.
 
 ## Project Objective
-The objective of the project is to create a fully functional interactive sales dashboard in Advance Excel using only functions and formulas without the use of power tools like Power Query and Power Pivot.
+The objective of this project is to create a fully functional interactive multi-page dashboard that leverages on the power and flexibility of Advance Excel using customized charts, VBA and Macros.
 
-- **Primary Goal:** Develop a dashboard that summarizes from a dataet without the use of power tools.
+- **Primary Goal:** Develop a dashboard that summarizes from a dataet with the use of power tools.
 - **Business Focus:** Provide insights and actionable recommendations to drive business strategy.
 
 ## Tools and Techniques
@@ -26,29 +26,26 @@ The objective of the project is to create a fully functional interactive sales d
 - **Data Structuring:**
   - Use a whole range or convert your data into a table for dynamic analysis.
   - Ensure your formulas update automatically as new data is added.
-- **Dashboard Elements:** Create a visually appealing and easy-to-read dashboard using charts, conditional formatting, and clear labeling.
-- **No Pivot Tables:** Focus on using formulas and manual chart setups instead of Pivot Tables.
+- **Dashboard Elements:** Create a visually appealing and easy-to-read dashboard using slicers, charts, conditional formatting, and clear labeling.
 
 ## Road Map
 1. **Use Excel Functions and Formulas:**
-
    - Leverage a variety of Excel functions to calculate totals, averages, and other key metrics.
    - Example functions include `SUMIF`, `COUNTIF`, `AVERAGE`, and logical functions like `IF` and `AND`.
 
 2. **Select a Whole Range or Turn Your Data into a Table:**
-
    - Convert raw data into a structured table to enable dynamic range references and facilitate easier data management.
 
-3. **Make it Simple:**
+3. **Add Interactivity with VBA and Macros:**
+   - Write VBA and Macros to add interactivity to the dashboard filter.
    - Ensure the dashboard is clear and easy to understand. Avoid clutter and use visual elements that make the data immediately comprehensible.
-   - Focus on key performance indicators (KPIs) that truly matter to the business.
-   - Consider aspects such as product performance, market trends, and potential areas for cost savings or revenue growth.
 
 ## Dashboard Components
 
 - **Header Section:** Company logo, dashboard title, and reporting period.
 - **Key Metrics Summary:** Display total sales, average order value, number of orders, etc.
 - **Visual Charts:** Use line charts, bar charts, and other visuals to depict trends and comparisons.
+- **Animated Filters:** Write VBA and Macros to add interactivity to the dashboard filter. 
 - **Detailed Breakdown:** Provide additional insights like top-selling products, regional performance, and sales by sales channel.
 - **Recommendations:** Clearly highlight strategic recommendations based on the data analysis.
 
