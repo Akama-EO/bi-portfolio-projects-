@@ -61,4 +61,4 @@ The objective of the project is to create a fully functional interactive sales d
 - **Recommendations:** Clearly highlight strategic recommendations based on the data analysis.
 
 
-This project not only demonstrates my technical skills in Advance Excel but also my ability to provide business insights through data analysis. The final dashboard should serve as a valuable tool for Home Luxury Kitchen’s management, aiding in strategic decision-making and operational improvements.
+Click [here](https://github.com/Akama-EO/sql-portfolio-projects/blob/main/Football%20Data%20Analysis/Solution%20(Part%20A).md) to view the complete solution for the project.
